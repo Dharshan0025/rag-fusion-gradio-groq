@@ -31,7 +31,7 @@ This project is a **Retrieval-Augmented Generation (RAG) chatbot** built with:
 export GROQ_API_KEY="your_api_key_here"   # Mac/Linux
 setx GROQ_API_KEY "your_api_key_here"     # Windows
 
-**Open the Gradio link in your browser and start chatting!** 🎉
+2. **Open the Gradio link in your browser and start chatting!** 🎉
 
 📝 Example Usage
 
